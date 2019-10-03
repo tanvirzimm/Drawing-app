@@ -1,7 +1,7 @@
 # [Live Demo](https://eager-hopper-0d9348.netlify.com/)
 ###### Clone this Repo :
 ```shell
-git clone https://github.com/tanvirzimm/Task-manager.git
+git clone https://github.com/tanvirzimm/Drawing-app.git
 ```
 ###### Install :
 ```shell
